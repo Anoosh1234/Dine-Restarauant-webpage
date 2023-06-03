@@ -38,4 +38,3 @@ Users should be able to:
 ## Author
 
 - Github - [Anoosh Pandu](https://github.com/Anoosh1234)
-- Frontend Mentor - [@rakeshnoothi](https://www.frontendmentor.io/profile/rakeshnoothi)
